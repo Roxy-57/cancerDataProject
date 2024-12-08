@@ -17,6 +17,7 @@
 
 ## 기술 스택 (Skill)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ## 느낀점
 - 가설을 후쿠시마 원전과 서구화된 식습관으로 잡아 데이터를 분석하였지만
 - 충분한 가설이 아니였으며 완벽히 내용을 뒷 받침 할만한 내용을 만들어내지 못했습니다.
