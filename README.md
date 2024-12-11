@@ -19,7 +19,7 @@
 ## 기술 스택 (Skill)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-## 문제 해
+## 문제 해결
 - 막대 그래프 텍스트 중첩 문제
 데이터 값이 큰 경우 텍스트가 겹치거나 가독성이 떨어지는 문제가 발생했습니다.
 
