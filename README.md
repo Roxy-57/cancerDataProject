@@ -12,9 +12,6 @@
 - 연도별 지역(시도) 암 발생자 수를 성별로 비교한 막대 그래프 구현
 - 연도와 성별에 따른 암 발생 데이터를 분석하여 시각적 비교 제공
 
-작업 기간
-- 2024.10.03~2024.10.10(1주)
-개인 프로젝트
 
 ## 기술 스택 (Skill)
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
